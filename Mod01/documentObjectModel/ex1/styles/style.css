@@ -1,0 +1,14 @@
+h2{ text-align: center}
+
+.formBorder {
+    margin-top: 10%;
+    padding: 2%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: lightseagreen;
+  }
+
+  p{
+    color: rgb(90, 173, 173);
+    font-size: 30px;
+  }
